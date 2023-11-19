@@ -1,2 +1,2 @@
 # course-work-OOPS
-this file contains interesting assignments and mini projects to build basic knowledge of Object Oriented Programming usin C++. 
+this repo contains interesting assignments and mini projects that anyone can try out to build basic knowledge of Object Oriented Programming usin C++. 
